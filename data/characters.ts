@@ -7,7 +7,7 @@ export interface Character {
 
 export const characters: Character[] = [
   { slug: "luke", name: "Luke", subtitle: "The Protagonist", imageUrl: "/characters/luke.svg" },
-  { slug: "ryu", name: "Ryu", subtitle: "Eternal Wanderer", imageUrl: "" },
+  { slug: "ryu", name: "Ryu", subtitle: "Eternal Wanderer", imageUrl: "/characters/ryu.svg" },
   { slug: "chun-li", name: "Chun-Li", subtitle: "The Strongest Woman in the World", imageUrl: "" },
   { slug: "jamie", name: "Jamie", subtitle: "The Siu Bak Fu", imageUrl: "" },
   { slug: "guile", name: "Guile", subtitle: "The Air Force Hero", imageUrl: "" },
