@@ -18,7 +18,7 @@ export const characters: Character[] = [
   { slug: "dhalsim", name: "Dhalsim", subtitle: "The Yoga Master", imageUrl: "/characters/dhalsim.svg" },
   { slug: "e-honda", name: "E.Honda", subtitle: "The Sumo Tormentor", imageUrl: "/characters/e-honda.svg" },
   { slug: "dee-jay", name: "Dee Jay", subtitle: "The Kickboxing Musician", imageUrl: "/characters/dee-jay.svg" },
-  { slug: "manon", name: "Manon", subtitle: "The ballet fighter", imageUrl: "" },
+  { slug: "manon", name: "Manon", subtitle: "The Ballet Fighter", imageUrl: "/characters/manon.svg" },
   { slug: "marisa", name: "Marisa", subtitle: "The Gladiator", imageUrl: "" },
   { slug: "jp", name: "JP", subtitle: "The Puppet Master", imageUrl: "" },
   { slug: "zangief", name: "Zangief", subtitle: "The Red Cyclone", imageUrl: "" },
