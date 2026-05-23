@@ -1,0 +1,44 @@
+export interface Character {
+  slug: string;
+  name: string;
+  subtitle: string;
+  imageUrl: string;
+}
+
+export const characters: Character[] = [
+  { slug: "luke", name: "Luke", subtitle: "The Protagonist", imageUrl: "" },
+  { slug: "ryu", name: "Ryu", subtitle: "Eternal Wanderer", imageUrl: "" },
+  { slug: "chun-li", name: "Chun-Li", subtitle: "The Strongest Woman in the World", imageUrl: "" },
+  { slug: "jamie", name: "Jamie", subtitle: "The Siu Bak Fu", imageUrl: "" },
+  { slug: "guile", name: "Guile", subtitle: "The Air Force Hero", imageUrl: "" },
+  { slug: "kimberly", name: "Kimberly", subtitle: "The Urban Ninja", imageUrl: "" },
+  { slug: "juri", name: "Juri", subtitle: "The Sadistic Thrill-Seeker", imageUrl: "" },
+  { slug: "ken", name: "Ken", subtitle: "The Fire-Breathing Fist", imageUrl: "" },
+  { slug: "blanka", name: "Blanka", subtitle: "The Beast of Brazil", imageUrl: "" },
+  { slug: "dhalsim", name: "Dhalsim", subtitle: "The Yoga Master", imageUrl: "" },
+  { slug: "e-honda", name: "E.Honda", subtitle: "The Sumo Tormentor", imageUrl: "" },
+  { slug: "dee-jay", name: "Dee Jay", subtitle: "The Kickboxing Musician", imageUrl: "" },
+  { slug: "manon", name: "Manon", subtitle: "The ballet fighter", imageUrl: "" },
+  { slug: "marisa", name: "Marisa", subtitle: "The Gladiator", imageUrl: "" },
+  { slug: "jp", name: "JP", subtitle: "The Puppet Master", imageUrl: "" },
+  { slug: "zangief", name: "Zangief", subtitle: "The Red Cyclone", imageUrl: "" },
+  { slug: "lily", name: "Lily", subtitle: "The Wind Caller", imageUrl: "" },
+  { slug: "cammy", name: "Cammy", subtitle: "The Killer Bee", imageUrl: "" },
+  { slug: "rashid", name: "Rashid", subtitle: "The Turbulent Wind", imageUrl: "" },
+  { slug: "a-k-i", name: "A.K.I.", subtitle: "The Poisonous Assassin", imageUrl: "" },
+  { slug: "ed", name: "Ed", subtitle: "The Phantom Striker", imageUrl: "" },
+  { slug: "akuma", name: "Akuma", subtitle: "The Supreme Master of the Fist", imageUrl: "" },
+  { slug: "m-bison", name: "M. Bison", subtitle: "The Dictator", imageUrl: "" },
+  { slug: "terry", name: "Terry", subtitle: "The Legendary Wolf", imageUrl: "" },
+  { slug: "mai", name: "Mai", subtitle: "The Alluring Ninja", imageUrl: "" },
+  { slug: "elena", name: "Elena", subtitle: "The Capoeira Princess", imageUrl: "" },
+  { slug: "volcano-handshake", name: "Volcano Handshake", subtitle: "The Burning Fist", imageUrl: "" },
+];
+
+export function getCharacterBySlug(slug: string): Character | undefined {
+  return characters.find((c) => c.slug === slug);
+}
+
+export function getOpponents(characterSlug: string): Character[] {
+  return characters.filter((c) => c.slug !== characterSlug);
+}

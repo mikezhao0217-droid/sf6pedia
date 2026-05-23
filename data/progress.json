@@ -1,0 +1,32 @@
+{
+  "currentCharacterIndex": 0,
+  "characters": [
+    { "slug": "luke", "name": "Luke", "status": "in-progress", "lastUpdated": null },
+    { "slug": "ryu", "name": "Ryu", "status": "pending", "lastUpdated": null },
+    { "slug": "chun-li", "name": "Chun-Li", "status": "pending", "lastUpdated": null },
+    { "slug": "jamie", "name": "Jamie", "status": "pending", "lastUpdated": null },
+    { "slug": "guile", "name": "Guile", "status": "pending", "lastUpdated": null },
+    { "slug": "kimberly", "name": "Kimberly", "status": "pending", "lastUpdated": null },
+    { "slug": "juri", "name": "Juri", "status": "pending", "lastUpdated": null },
+    { "slug": "ken", "name": "Ken", "status": "pending", "lastUpdated": null },
+    { "slug": "blanka", "name": "Blanka", "status": "pending", "lastUpdated": null },
+    { "slug": "dhalsim", "name": "Dhalsim", "status": "pending", "lastUpdated": null },
+    { "slug": "e-honda", "name": "E.Honda", "status": "pending", "lastUpdated": null },
+    { "slug": "dee-jay", "name": "Dee Jay", "status": "pending", "lastUpdated": null },
+    { "slug": "manon", "name": "Manon", "status": "pending", "lastUpdated": null },
+    { "slug": "marisa", "name": "Marisa", "status": "pending", "lastUpdated": null },
+    { "slug": "jp", "name": "JP", "status": "pending", "lastUpdated": null },
+    { "slug": "zangief", "name": "Zangief", "status": "pending", "lastUpdated": null },
+    { "slug": "lily", "name": "Lily", "status": "pending", "lastUpdated": null },
+    { "slug": "cammy", "name": "Cammy", "status": "pending", "lastUpdated": null },
+    { "slug": "rashid", "name": "Rashid", "status": "pending", "lastUpdated": null },
+    { "slug": "a-k-i", "name": "A.K.I.", "status": "pending", "lastUpdated": null },
+    { "slug": "ed", "name": "Ed", "status": "pending", "lastUpdated": null },
+    { "slug": "akuma", "name": "Akuma", "status": "pending", "lastUpdated": null },
+    { "slug": "m-bison", "name": "M. Bison", "status": "pending", "lastUpdated": null },
+    { "slug": "terry", "name": "Terry", "status": "pending", "lastUpdated": null },
+    { "slug": "mai", "name": "Mai", "status": "pending", "lastUpdated": null },
+    { "slug": "elena", "name": "Elena", "status": "pending", "lastUpdated": null },
+    { "slug": "volcano-handshake", "name": "Volcano Handshake", "status": "pending", "lastUpdated": null }
+  ]
+}
