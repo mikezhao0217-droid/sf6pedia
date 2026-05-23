@@ -14,7 +14,7 @@ export const characters: Character[] = [
   { slug: "kimberly", name: "Kimberly", subtitle: "The Urban Ninja", imageUrl: "/characters/kimberly.svg" },
   { slug: "juri", name: "Juri", subtitle: "The Sadistic Thrill-Seeker", imageUrl: "/characters/juri.svg" },
   { slug: "ken", name: "Ken", subtitle: "The Fire-Breathing Fist", imageUrl: "/characters/ken.svg" },
-  { slug: "blanka", name: "Blanka", subtitle: "The Beast of Brazil", imageUrl: "" },
+  { slug: "blanka", name: "Blanka", subtitle: "The Beast of Brazil", imageUrl: "/characters/blanka.svg" },
   { slug: "dhalsim", name: "Dhalsim", subtitle: "The Yoga Master", imageUrl: "" },
   { slug: "e-honda", name: "E.Honda", subtitle: "The Sumo Tormentor", imageUrl: "" },
   { slug: "dee-jay", name: "Dee Jay", subtitle: "The Kickboxing Musician", imageUrl: "" },
