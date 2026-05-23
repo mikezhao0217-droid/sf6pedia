@@ -15,7 +15,10 @@ export interface CharacterContent {
     matchups: {
       opponent: string;
       difficulty: "advantageous" | "even" | "disadvantaged";
-      notes: string;
+      summary?: string;
+      strategies?: string[];
+      keyMoves?: string[];
+      notes?: string;
     }[];
   };
   content: string;

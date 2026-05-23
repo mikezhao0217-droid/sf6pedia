@@ -1,7 +1,7 @@
 {
   "currentCharacterIndex": 0,
   "characters": [
-    { "slug": "luke", "name": "Luke", "status": "in-progress", "lastUpdated": null },
+    { "slug": "luke", "name": "Luke", "status": "completed", "lastUpdated": "2026-05-23T09:15:00.000Z" },
     { "slug": "ryu", "name": "Ryu", "status": "pending", "lastUpdated": null },
     { "slug": "chun-li", "name": "Chun-Li", "status": "pending", "lastUpdated": null },
     { "slug": "jamie", "name": "Jamie", "status": "pending", "lastUpdated": null },

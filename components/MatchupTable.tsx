@@ -6,7 +6,10 @@ import MatchupRow from "./MatchupRow";
 interface Matchup {
   opponent: string;
   difficulty: "advantageous" | "even" | "disadvantaged";
-  notes: string;
+  summary?: string;
+  strategies?: string[];
+  keyMoves?: string[];
+  notes?: string;
 }
 
 interface MatchupTableProps {
@@ -33,6 +36,9 @@ export default function MatchupTable({
             key={matchup.opponent}
             opponentName={opponentNames[matchup.opponent] || matchup.opponent}
             difficulty={matchup.difficulty}
+            summary={matchup.summary}
+            strategies={matchup.strategies}
+            keyMoves={matchup.keyMoves}
             notes={matchup.notes}
             isExpanded={expandedIndex === i}
             onToggle={() => setExpandedIndex(expandedIndex === i ? null : i)}
