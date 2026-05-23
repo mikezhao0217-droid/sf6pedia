@@ -12,7 +12,7 @@ export const characters: Character[] = [
   { slug: "jamie", name: "Jamie", subtitle: "The Siu Bak Fu", imageUrl: "/characters/jamie.svg" },
   { slug: "guile", name: "Guile", subtitle: "The Air Force Hero", imageUrl: "/characters/guile.svg" },
   { slug: "kimberly", name: "Kimberly", subtitle: "The Urban Ninja", imageUrl: "/characters/kimberly.svg" },
-  { slug: "juri", name: "Juri", subtitle: "The Sadistic Thrill-Seeker", imageUrl: "" },
+  { slug: "juri", name: "Juri", subtitle: "The Sadistic Thrill-Seeker", imageUrl: "/characters/juri.svg" },
   { slug: "ken", name: "Ken", subtitle: "The Fire-Breathing Fist", imageUrl: "" },
   { slug: "blanka", name: "Blanka", subtitle: "The Beast of Brazil", imageUrl: "" },
   { slug: "dhalsim", name: "Dhalsim", subtitle: "The Yoga Master", imageUrl: "" },
