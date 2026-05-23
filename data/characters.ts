@@ -22,7 +22,7 @@ export const characters: Character[] = [
   { slug: "marisa", name: "Marisa", subtitle: "The Gladiator", imageUrl: "/characters/marisa.svg" },
   { slug: "jp", name: "JP", subtitle: "The Puppet Master", imageUrl: "/characters/jp.svg" },
   { slug: "zangief", name: "Zangief", subtitle: "The Red Cyclone", imageUrl: "/characters/zangief.svg" },
-  { slug: "lily", name: "Lily", subtitle: "The Wind Caller", imageUrl: "" },
+  { slug: "lily", name: "Lily", subtitle: "The Wind Caller", imageUrl: "/characters/lily.svg" },
   { slug: "cammy", name: "Cammy", subtitle: "The Killer Bee", imageUrl: "" },
   { slug: "rashid", name: "Rashid", subtitle: "The Turbulent Wind", imageUrl: "" },
   { slug: "a-k-i", name: "A.K.I.", subtitle: "The Poisonous Assassin", imageUrl: "" },
