@@ -3,7 +3,7 @@
   "characters": [
     { "slug": "luke", "name": "Luke", "status": "completed", "lastUpdated": "2026-05-23T09:15:00.000Z" },
     { "slug": "ryu", "name": "Ryu", "status": "completed", "lastUpdated": "2026-05-23T10:30:00.000Z" },
-    { "slug": "chun-li", "name": "Chun-Li", "status": "pending", "lastUpdated": null },
+    { "slug": "chun-li", "name": "Chun-Li", "status": "completed", "lastUpdated": "2026-05-23T11:10:00.000Z" },
     { "slug": "jamie", "name": "Jamie", "status": "pending", "lastUpdated": null },
     { "slug": "guile", "name": "Guile", "status": "pending", "lastUpdated": null },
     { "slug": "kimberly", "name": "Kimberly", "status": "pending", "lastUpdated": null },
