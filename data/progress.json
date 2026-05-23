@@ -15,7 +15,7 @@
     { "slug": "dee-jay", "name": "Dee Jay", "status": "completed", "lastUpdated": "2026-05-24T10:00:00.000Z" },
     { "slug": "manon", "name": "Manon", "status": "completed", "lastUpdated": "2026-05-24T12:00:00.000Z" },
     { "slug": "marisa", "name": "Marisa", "status": "completed", "lastUpdated": "2026-05-24T14:30:00.000Z" },
-    { "slug": "jp", "name": "JP", "status": "pending", "lastUpdated": null },
+    { "slug": "jp", "name": "JP", "status": "completed", "lastUpdated": "2026-05-24T15:30:00.000Z" },
     { "slug": "zangief", "name": "Zangief", "status": "pending", "lastUpdated": null },
     { "slug": "lily", "name": "Lily", "status": "pending", "lastUpdated": null },
     { "slug": "cammy", "name": "Cammy", "status": "pending", "lastUpdated": null },

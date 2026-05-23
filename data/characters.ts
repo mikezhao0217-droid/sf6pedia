@@ -20,7 +20,7 @@ export const characters: Character[] = [
   { slug: "dee-jay", name: "Dee Jay", subtitle: "The Kickboxing Musician", imageUrl: "/characters/dee-jay.svg" },
   { slug: "manon", name: "Manon", subtitle: "The Ballet Fighter", imageUrl: "/characters/manon.svg" },
   { slug: "marisa", name: "Marisa", subtitle: "The Gladiator", imageUrl: "/characters/marisa.svg" },
-  { slug: "jp", name: "JP", subtitle: "The Puppet Master", imageUrl: "" },
+  { slug: "jp", name: "JP", subtitle: "The Puppet Master", imageUrl: "/characters/jp.svg" },
   { slug: "zangief", name: "Zangief", subtitle: "The Red Cyclone", imageUrl: "" },
   { slug: "lily", name: "Lily", subtitle: "The Wind Caller", imageUrl: "" },
   { slug: "cammy", name: "Cammy", subtitle: "The Killer Bee", imageUrl: "" },
