@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="20" fill="#1a0a2e"/>
+  <circle cx="100" cy="85" r="45" fill="#2d1b4e" stroke="#ff4444" stroke-width="3"/>
+  <text x="100" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ff4444">悪</text>
+  <text x="100" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">AKUMA</text>
+</svg>

@@ -27,7 +27,7 @@ export const characters: Character[] = [
   { slug: "rashid", name: "Rashid", subtitle: "The Turbulent Wind", imageUrl: "/characters/rashid.svg" },
   { slug: "a-k-i", name: "A.K.I.", subtitle: "The Poisonous Assassin", imageUrl: "/characters/a-k-i.svg" },
   { slug: "ed", name: "Ed", subtitle: "The Phantom Striker", imageUrl: "/characters/ed.svg" },
-  { slug: "akuma", name: "Akuma", subtitle: "The Supreme Master of the Fist", imageUrl: "" },
+  { slug: "akuma", name: "Akuma", subtitle: "The Supreme Master of the Fist", imageUrl: "/characters/akuma.svg" },
   { slug: "m-bison", name: "M. Bison", subtitle: "The Dictator", imageUrl: "" },
   { slug: "terry", name: "Terry", subtitle: "The Legendary Wolf", imageUrl: "" },
   { slug: "mai", name: "Mai", subtitle: "The Alluring Ninja", imageUrl: "" },

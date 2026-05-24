@@ -22,7 +22,7 @@
     { "slug": "rashid", "name": "Rashid", "status": "completed", "lastUpdated": "2026-05-24T23:30:00.000Z" },
     { "slug": "a-k-i", "name": "A.K.I.", "status": "completed", "lastUpdated": "2026-05-24T23:50:00.000Z" },
     { "slug": "ed", "name": "Ed", "status": "completed", "lastUpdated": "2026-05-25T00:30:00.000Z" },
-    { "slug": "akuma", "name": "Akuma", "status": "pending", "lastUpdated": null },
+    { "slug": "akuma", "name": "Akuma", "status": "completed", "lastUpdated": "2026-05-24T10:00:00.000Z" },
     { "slug": "m-bison", "name": "M. Bison", "status": "pending", "lastUpdated": null },
     { "slug": "terry", "name": "Terry", "status": "pending", "lastUpdated": null },
     { "slug": "mai", "name": "Mai", "status": "pending", "lastUpdated": null },
